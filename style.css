@@ -28,3 +28,7 @@ a {
     color: #ff7e00;
     -webkit-text-stroke: 1px white;
 }
+
+a:hover {
+    color: #7100c7;
+}
