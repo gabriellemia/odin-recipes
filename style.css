@@ -1,0 +1,30 @@
+h1 {
+    background-color: #100c08;
+    color: #ff7e00;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 100px;
+    margin: 0px;
+    padding: 20px;
+}
+
+ul {
+    color: #ff7e00;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke: 1px white;
+}
+
+div {
+    background-image: url(img/Pumpkins-background.jpg);
+    padding: 100px 100px 255px 100px;
+    margin: 0px;
+    background-position: center;
+    background-size: contain;
+}
+
+a {
+    color: #ff7e00;
+    -webkit-text-stroke: 1px white;
+}
